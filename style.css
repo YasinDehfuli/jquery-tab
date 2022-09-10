@@ -1,0 +1,7 @@
+#tabs .card{
+    display: none;
+}
+
+#tabs .card:first-child{
+    display: block;
+}
