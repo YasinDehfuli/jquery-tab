@@ -1,0 +1,28 @@
+{
+  "name": "jquery-tab",
+  "version": "1.0.0",
+  "description": "hello world git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasinDehfuli/jquery-tab.git"
+  },
+  "keywords": [
+    "jquery",
+    "tab",
+    "tutorial"
+  ],
+  "author": "ydehfuli@gmail.com",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YasinDehfuli/jquery-tab/issues"
+  },
+  "homepage": "https://github.com/YasinDehfuli/jquery-tab#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
+}
